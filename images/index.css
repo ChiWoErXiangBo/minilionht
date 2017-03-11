@@ -1,0 +1,32 @@
+<style type="text/css">
+
+#container{
+	width: 1002px;
+}
+#header{
+	height: 128px;
+	background: grey url(./top_bg.jpg);
+}
+#nav li{
+	font-size: 16px;
+	float: left;
+	width: 90px;
+	margin-right: 1px;
+	text-align: center;
+}
+#nav a{
+	font-size: 15px;
+	color: #36365;
+	font-family: "微软雅黑";
+
+
+
+}
+#nav a:hover{
+	color: white;
+	background: url(./nav_on.gif);
+	display: block;
+	height: 37px;
+	width: 90px;
+}
+</style>
